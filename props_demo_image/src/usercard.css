@@ -1,0 +1,10 @@
+.User-Container {
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+#User-Img {
+  width: 25%;
+  height: auto;
+}
